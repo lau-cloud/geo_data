@@ -1,0 +1,209 @@
+setmana,mes,name,casos,poblacio,positius_x,tendencia
+14-20,desembre,Alt Camp,48,44296,108,augmenta
+14-20,desembre,Alt Empordà,367,141339,260,augmenta
+14-20,desembre,Alt Penedès,191,108411,176,augmenta
+14-20,desembre,Alt Urgell,29,20177,144,disminueix
+14-20,desembre,Alta Ribagorça,1,3802,26,igual
+14-20,desembre,Anoia,323,120738,268,augmenta
+14-20,desembre,Aran,14,10093,139,augmenta
+14-20,desembre,Bages,336,178885,188,disminueix
+14-20,desembre,Baix Camp,249,190973,130,augmenta
+14-20,desembre,Baix Ebre,72,77596,93,augmenta
+14-20,desembre,Baix Empordà,293,134359,218,augmenta
+14-20,desembre,Baix Llobregat,1106,825963,134,augmenta
+14-20,desembre,Baix Penedès,125,104991,119,augmenta
+14-20,desembre,Barcelonès,3508,2278437,154,augmenta
+14-20,desembre,Berguedà,81,39446,205,augmenta
+14-20,desembre,Cerdanya,199,18192,1094,augmenta
+14-20,desembre,Conca de Barberà,28,20042,140,augmenta
+14-20,desembre,Garraf,133,150887,88,augmenta
+14-20,desembre,Garrigues,10,18833,53,disminueix
+14-20,desembre,Garrotxa,77,57590,134,augmenta
+14-20,desembre,Gironès,452,193908,233,augmenta
+14-20,desembre,Maresme,657,452690,145,augmenta
+14-20,desembre,Moianès,12,13603,88,augmenta
+14-20,desembre,Montsià,36,67436,53,augmenta
+14-20,desembre,Noguera,39,38770,101,augmenta
+14-20,desembre,Osona,386,160821,240,augmenta
+14-20,desembre,Pallars Jussà,20,13080,153,disminueix
+14-20,desembre,Pallars Sobirà,2,6932,29,disminueix
+14-20,desembre,Pla d'Urgell,114,36693,311,augmenta
+14-20,desembre,Pla de l'Estany,94,32293,291,disminueix
+14-20,desembre,Priorat,30,9245,324,augmenta
+14-20,desembre,Ribera d'Ebre,14,21865,64,disminueix
+14-20,desembre,Ripollès,179,25087,714,augmenta
+14-20,desembre,Segarra,33,23052,143,disminueix
+14-20,desembre,Segrià,243,209818,116,disminueix
+14-20,desembre,Selva,281,171617,164,augmenta
+14-20,desembre,Solsonès,9,13469,67,disminueix
+14-20,desembre,Tarragonès,329,256730,128,augmenta
+14-20,desembre,Terra Alta,81,11490,705,augmenta
+14-20,desembre,Urgell,49,36693,134,augmenta
+14-20,desembre,Vallès Occidental,1343,925237,145,augmenta
+14-20,desembre,Vallès Oriental,524,409638,128,augmenta
+07-13,desembre,Alt Camp,36,44296,81,augmenta
+07-13,desembre,Alt Empordà,202,141339,143,augmenta
+07-13,desembre,Alt Penedès,140,108411,129,augmenta
+07-13,desembre,Alt Urgell,31,20177,154,disminueix
+07-13,desembre,Alta Ribagorça,1,3802,26,igual
+07-13,desembre,Anoia,133,120738,110,augmenta
+07-13,desembre,Aran,2,10093,20,augmenta
+07-13,desembre,Bages,401,178885,224,disminueix
+07-13,desembre,Baix Camp,196,190973,103,augmenta
+07-13,desembre,Baix Ebre,33,77596,43,augmenta
+07-13,desembre,Baix Empordà,235,134359,175,augmenta
+07-13,desembre,Baix Llobregat,760,825963,92,augmenta
+07-13,desembre,Baix Penedès,80,104991,76,augmenta
+07-13,desembre,Barcelonès,2441,2278437,107,augmenta
+07-13,desembre,Berguedà,73,39446,185,augmenta
+07-13,desembre,Cerdanya,124,18192,682,augmenta
+07-13,desembre,Conca de Barberà,10,20042,50,augmenta
+07-13,desembre,Garraf,69,150887,46,augmenta
+07-13,desembre,Garrigues,18,18833,96,disminueix
+07-13,desembre,Garrotxa,41,57590,71,augmenta
+07-13,desembre,Gironès,264,193908,136,augmenta
+07-13,desembre,Maresme,502,452690,111,augmenta
+07-13,desembre,Moianès,11,13603,81,augmenta
+07-13,desembre,Montsià,18,67436,27,augmenta
+07-13,desembre,Noguera,36,38770,93,augmenta
+07-13,desembre,Osona,335,160821,208,augmenta
+07-13,desembre,Pallars Jussà,30,13080,229,disminueix
+07-13,desembre,Pallars Sobirà,4,6932,58,disminueix
+07-13,desembre,Pla d'Urgell,87,36693,237,augmenta
+07-13,desembre,Pla de l'Estany,107,32293,331,disminueix
+07-13,desembre,Priorat,25,9245,270,augmenta
+07-13,desembre,Ribera d'Ebre,18,21865,82,disminueix
+07-13,desembre,Ripollès,151,25087,602,augmenta
+07-13,desembre,Segarra,48,23052,208,disminueix
+07-13,desembre,Segrià,252,209818,120,disminueix
+07-13,desembre,Selva,220,171617,128,augmenta
+07-13,desembre,Solsonès,34,13469,252,disminueix
+07-13,desembre,Tarragonès,321,256730,125,augmenta
+07-13,desembre,Terra Alta,26,11490,226,augmenta
+07-13,desembre,Urgell,44,36693,120,augmenta
+07-13,desembre,Vallès Occidental,949,925237,103,augmenta
+07-13,desembre,Vallès Oriental,391,409638,95,augmenta
+30-06,desembre,Alt Camp,21,44296,47,augmenta
+30-06,desembre,Alt Empordà,266,141339,188,augmenta
+30-06,desembre,Alt Penedès,190,108411,175,augmenta
+30-06,desembre,Alt Urgell,36,20177,178,disminueix
+30-06,desembre,Alta Ribagorça,1,3802,26,igual
+30-06,desembre,Anoia,153,120738,127,augmenta
+30-06,desembre,Bages,341,178885,191,disminueix
+30-06,desembre,Baix Camp,182,190973,95,augmenta
+30-06,desembre,Baix Ebre,47,77596,61,augmenta
+30-06,desembre,Baix Empordà,262,134359,195,augmenta
+30-06,desembre,Baix Llobregat,993,825963,120,augmenta
+30-06,desembre,Baix Penedès,79,104991,75,augmenta
+30-06,desembre,Barcelonès,2717,2278437,119,augmenta
+30-06,desembre,Berguedà,58,39446,147,augmenta
+30-06,desembre,Cerdanya,100,18192,550,augmenta
+30-06,desembre,Conca de Barberà,19,20042,95,augmenta
+30-06,desembre,Garraf,81,150887,54,augmenta
+30-06,desembre,Garrigues,8,18833,42,disminueix
+30-06,desembre,Garrotxa,73,57590,127,augmenta
+30-06,desembre,Gironès,273,193908,141,augmenta
+30-06,desembre,Maresme,418,452690,92,augmenta
+30-06,desembre,Moianès,16,13603,118,augmenta
+30-06,desembre,Montsià,33,67436,49,augmenta
+30-06,desembre,Noguera,51,38770,132,augmenta
+30-06,desembre,Osona,427,160821,266,augmenta
+30-06,desembre,Pallars Jussà,61,13080,466,disminueix
+30-06,desembre,Pla d'Urgell,72,36693,196,augmenta
+30-06,desembre,Pla de l'Estany,100,32293,310,disminueix
+30-06,desembre,Priorat,5,9245,54,augmenta
+30-06,desembre,Ribera d'Ebre,20,21865,91,disminueix
+30-06,desembre,Ripollès,152,25087,606,augmenta
+30-06,desembre,Segarra,29,23052,126,disminueix
+30-06,desembre,Segrià,264,209818,126,disminueix
+30-06,desembre,Selva,225,171617,131,augmenta
+30-06,desembre,Solsonès,25,13469,186,disminueix
+30-06,desembre,Tarragonès,258,256730,100,augmenta
+30-06,desembre,Terra Alta,11,11490,96,augmenta
+30-06,desembre,Urgell,63,36693,172,augmenta
+30-06,desembre,Vallès Occidental,1103,925237,119,augmenta
+30-06,desembre,Vallès Oriental,504,409638,123,augmenta
+23-29,novembre,Alt Camp,31,44296,70,augmenta
+23-29,novembre,Alt Empordà,160,141339,113,augmenta
+23-29,novembre,Alt Penedès,127,108411,117,augmenta
+23-29,novembre,Alt Urgell,34,20177,169,disminueix
+23-29,novembre,Alta Ribagorça,9,3802,237,igual
+23-29,novembre,Anoia,130,120738,108,augmenta
+23-29,novembre,Aran,5,10093,50,augmenta
+23-29,novembre,Bages,247,178885,138,disminueix
+23-29,novembre,Baix Camp,202,190973,106,augmenta
+23-29,novembre,Baix Ebre,72,77596,93,augmenta
+23-29,novembre,Baix Empordà,213,134359,159,augmenta
+23-29,novembre,Baix Llobregat,944,825963,114,augmenta
+23-29,novembre,Baix Penedès,71,104991,68,augmenta
+23-29,novembre,Barcelonès,2437,2278437,107,augmenta
+23-29,novembre,Berguedà,21,39446,53,augmenta
+23-29,novembre,Cerdanya,32,18192,176,augmenta
+23-29,novembre,Conca de Barberà,12,20042,60,augmenta
+23-29,novembre,Garraf,70,150887,46,augmenta
+23-29,novembre,Garrigues,23,18833,122,disminueix
+23-29,novembre,Garrotxa,78,57590,135,augmenta
+23-29,novembre,Gironès,268,193908,138,augmenta
+23-29,novembre,Maresme,400,452690,88,augmenta
+23-29,novembre,Moianès,20,13603,147,augmenta
+23-29,novembre,Montsià,59,67436,87,augmenta
+23-29,novembre,Noguera,83,38770,214,augmenta
+23-29,novembre,Osona,309,160821,192,augmenta
+23-29,novembre,Pallars Jussà,132,13080,1009,disminueix
+23-29,novembre,Pallars Sobirà,5,6932,72,disminueix
+23-29,novembre,Pla d'Urgell,73,36693,199,augmenta
+23-29,novembre,Pla de l'Estany,73,32293,226,disminueix
+23-29,novembre,Priorat,4,9245,43,augmenta
+23-29,novembre,Ribera d'Ebre,18,21865,82,disminueix
+23-29,novembre,Ripollès,40,25087,159,augmenta
+23-29,novembre,Segarra,49,23052,213,disminueix
+23-29,novembre,Segrià,280,209818,133,disminueix
+23-29,novembre,Selva,231,171617,135,augmenta
+23-29,novembre,Solsonès,18,13469,134,disminueix
+23-29,novembre,Tarragonès,218,256730,85,augmenta
+23-29,novembre,Terra Alta,10,11490,87,augmenta
+23-29,novembre,Urgell,76,36693,207,augmenta
+23-29,novembre,Vallès Occidental,1057,925237,114,augmenta
+23-29,novembre,Vallès Oriental,462,409638,113,augmenta
+16-22,novembre,Alt Camp,71,44296,160,augmenta
+16-22,novembre,Alt Empordà,260,141339,184,augmenta
+16-22,novembre,Alt Penedès,187,108411,172,augmenta
+16-22,novembre,Alt Urgell,59,20177,292,disminueix
+16-22,novembre,Alta Ribagorça,7,3802,184,igual
+16-22,novembre,Anoia,119,120738,99,augmenta
+16-22,novembre,Aran,21,10093,208,augmenta
+16-22,novembre,Bages,346,178885,193,disminueix
+16-22,novembre,Baix Camp,301,190973,158,augmenta
+16-22,novembre,Baix Ebre,88,77596,113,augmenta
+16-22,novembre,Baix Empordà,232,134359,173,augmenta
+16-22,novembre,Baix Llobregat,1334,825963,162,augmenta
+16-22,novembre,Baix Penedès,88,104991,84,augmenta
+16-22,novembre,Barcelonès,3314,2278437,145,augmenta
+16-22,novembre,Berguedà,80,39446,203,augmenta
+16-22,novembre,Cerdanya,33,18192,181,augmenta
+16-22,novembre,Conca de Barberà,6,20042,30,augmenta
+16-22,novembre,Garraf,120,150887,80,augmenta
+16-22,novembre,Garrigues,13,18833,69,disminueix
+16-22,novembre,Garrotxa,108,57590,188,augmenta
+16-22,novembre,Gironès,339,193908,175,augmenta
+16-22,novembre,Maresme,571,452690,126,augmenta
+16-22,novembre,Moianès,66,13603,485,augmenta
+16-22,novembre,Montsià,101,67436,150,augmenta
+16-22,novembre,Noguera,74,38770,191,augmenta
+16-22,novembre,Osona,430,160821,267,augmenta
+16-22,novembre,Pallars Jussà,89,13080,680,disminueix
+16-22,novembre,Pallars Sobirà,6,6932,87,disminueix
+16-22,novembre,Pla d'Urgell,53,36693,144,augmenta
+16-22,novembre,Pla de l'Estany,127,32293,393,disminueix
+16-22,novembre,Priorat,5,9245,54,augmenta
+16-22,novembre,Ribera d'Ebre,20,21865,91,disminueix
+16-22,novembre,Ripollès,56,25087,223,augmenta
+16-22,novembre,Segarra,75,23052,325,disminueix
+16-22,novembre,Segrià,334,209818,159,disminueix
+16-22,novembre,Selva,181,171617,105,augmenta
+16-22,novembre,Solsonès,28,13469,208,disminueix
+16-22,novembre,Tarragonès,292,256730,114,augmenta
+16-22,novembre,Terra Alta,3,11490,26,augmenta
+16-22,novembre,Urgell,100,36693,273,augmenta
+16-22,novembre,Vallès Occidental,1214,925237,131,augmenta
+16-22,novembre,Vallès Oriental,654,409638,160,augmenta
