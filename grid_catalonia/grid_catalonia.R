@@ -26,7 +26,7 @@ comarques <- data.frame(
 )
 
 
-datos <- read.csv("setmanes_desembre.csv", encoding = "UTF-8")
+datos <- read.csv("https://raw.githubusercontent.com/lau-cloud/geo_data/main/grid_catalonia/setmanes_desembre.csv", encoding = "UTF-8")
 
 # Factors reordering
 datos$setmana <- factor(datos$setmana, levels = c("16-22", "23-29","30-06","07-13", "14-20"))
